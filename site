@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="port" content="width=device-width, initial-scale=1.0" />
+    <title>Antônio Tenório</title>
+    <link rel="stylesheet" href="site.css">
+  </head>
+  <body>
+    <header id = "Home">
+      <div class="container">
+        <img src="A.png" alt="imagem" height="55" width="55">
+        <nav>
+          <ul>
+            <li><a href="#Home">Home</a></li>
+            <li><a href="#sobre">sobre</a></li>
+            <li><a href="#experiencia">experiencia</a></li>
+            <li><a href="#contato">contato</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section id="titulo">
+      <div class="container">
+        <h1>Bem Vindo ao Meu Portfolio</h1>
+        <p>Um pouco sobre min e sobre os meus trabalhos</p>
+      </div>
+    </section>
+    <section id="sobre">
+        <div class="container2">
+          <h2>Sobre Mim</h2>
+      </section>
+    <section id="sobre">
+      <div class="container3">
+        <img src="minha ft.jpg" alt="imagem" height="400" width="400">
+    </section>
+    <section id="sobre">
+      <div class="container2">
+        <center>
+        <p>
+          Meu nome é Antônio Tenório Ferreira de Souza atualmente<br /> estou cursando ADS na Cesar em Recife Pernambuco,<br /> sou da Paraiba a
+          terra do maior São Jõao do mundo,<br /> onde cresci e fiz o ensino médio. Espero me formar e girar o<br /> munda trabalhando tendo 
+          diversas experiencias novas.</p>
+        </center>
+    </section>
+    <section id="experiencia">
+        <div class="container">
+          <h2>Experiencia</h2>
+          <p>
+            A única experiencia que eu posso citar aqui é a participação da equipe de robótica da escola SESI Prata, lá eu consegui desenvolver diversas habilidades,
+            desde softskils como liderança até hardskils como programação.</p>
+  
+      </section>
+      <footer>
+        <div class="container">
+          <div class="links">
+            <a href="https://github.com/ACKatheist" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i><img src="25231.png" alt="link" height="40" width="40"></a>
+          </div>
+          <p>&copy; 2024</p>
+        </div>
+      </footer>
